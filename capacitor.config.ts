@@ -1,9 +1,9 @@
-import type { CapacitorConfig } from '@capacitor/cli';
+import type { CapacitorConfig } from "@capacitor/cli";
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'block',
-  webDir: 'dist'
+  appId: "com.kaiaapt",
+  appName: "KaiaApt",
+  webDir: "dist",
 };
 
 export default config;

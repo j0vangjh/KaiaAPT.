@@ -1,0 +1,71 @@
+.login {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.login-text {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.login-button {
+    margin-top: 70px;
+    width: 100%;
+    max-width: 250px;
+    height: 70px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+    font-size: medium; 
+}
+
+.login-alternative {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-size: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.icon-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    margin-top: 10px;
+}
+
+.icon {
+    font-size: 2rem;
+}
+
+.facebook-icon {
+    color: #1877F2
+}
+
+.signup {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.forgot-password {
+    justify-content: flex-end;
+    display: flex;
+    font-size: small
+}
+
+.input {
+    margin-top: 20px;
+}

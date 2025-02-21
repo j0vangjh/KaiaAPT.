@@ -1,0 +1,10 @@
+{
+  "id": "4",
+  "tokenId": "4",
+  "name": "Castlevania",
+  "description": "Nice condominum with a lot of greenery",
+  "image": "https://firebasestorage.googleapis.com/v0/b/kaiaapt.firebasestorage.app/o/images%2Fmansion4.png?alt=media&token=87c6f543-f0d3-4f82-acf6-8bea59978c09",
+  "price": "70",
+  "location": "Singapore, NorthEast",
+  "owner": null
+}

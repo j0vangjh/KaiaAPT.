@@ -1,0 +1,38 @@
+.dashboard-avatar {
+    margin-right: 20px;
+}
+
+.view-more {
+    color: var(--ion-color-tertiary);
+}
+
+.card-content-ios p {
+    margin-top: 10px;
+}
+
+ion-segment-button.ios::part(native) {
+    color: var(--ion-color-primary);
+}
+
+.segment-button-checked.ios::part(native) {
+    color: #fff;
+}
+
+ion-segment-button.ios::part(indicator-background) {
+    border-radius: 20px;
+}
+
+.spinner {
+    display: block;
+    margin: auto;
+    margin-top: 200px;
+}
+
+.noAssets {
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    color: var(--ion-color-primary);
+    font-weight: bold;
+
+}

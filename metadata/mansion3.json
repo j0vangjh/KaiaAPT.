@@ -1,0 +1,10 @@
+{
+  "id": "3",
+  "tokenId": "3",
+  "name": "The Topiary",
+  "description": "Nice condominum with a lot of greenery",
+  "image": "https://firebasestorage.googleapis.com/v0/b/kaiaapt.firebasestorage.app/o/images%2Fmansion3.png?alt=media&token=3770519c-aecf-45c9-94c4-a60196038aa4",
+  "price": "70",
+  "location": "Singapore, NorthEast",
+  "owner": null
+}

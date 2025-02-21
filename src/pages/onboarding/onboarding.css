@@ -1,0 +1,22 @@
+.onboarding-text {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-size:20px;
+    text-align: center;
+}
+
+.onboarding {
+    margin-top: 90px;
+}
+
+.onboarding-button {
+    margin-top: 30px;
+    width: 100%;
+    max-width: 250px;
+    height: 70px;
+    position: absolute;
+    left: 20%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+}

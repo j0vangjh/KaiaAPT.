@@ -1,0 +1,13 @@
+.settings-button {
+    margin-bottom: 16px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.button-text {
+    text-align: left;
+}
+
+.language {
+    margin-right: 20px;
+}

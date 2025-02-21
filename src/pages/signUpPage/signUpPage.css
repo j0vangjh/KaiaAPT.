@@ -1,0 +1,45 @@
+.signUp {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.signup-text {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.signup-button {
+    margin-top: 80px;
+    width: 100%;
+    max-width: 250px;
+    height: 70px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+    font-size: medium;
+}
+
+.logIn {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.signup-form {
+    margin-top: 40px;
+}
+
+.input-field {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}

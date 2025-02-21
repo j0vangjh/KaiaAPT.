@@ -1,0 +1,10 @@
+{
+  "id": "1",
+  "tokenId": "1",
+  "name": "Luxury Villa",
+  "description": "A beautiful luxury villa with modern amenities.",
+  "image": "https://firebasestorage.googleapis.com/v0/b/kaiaapt.firebasestorage.app/o/images%2Fmansion.png?alt=media&token=b67a25e8-abee-4742-8c83-595e272cd6d1",
+  "price": "100",
+  "location": "California, USA",
+  "owner": null
+}

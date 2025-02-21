@@ -1,0 +1,57 @@
+.name {
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.title {
+    margin-left: 20px;
+}
+
+.home-avatar {
+    margin-right: 20px;
+}
+
+.searchbar-filter, .trending-properties {
+    display: flex;
+    margin: 0 auto;
+}
+
+.searchbar {
+    height: 100%;
+}
+
+.trending {
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.view {
+    margin-left: 50px;
+    margin-top: 25px;
+    font-family: 'Lato', italic;
+    font-weight: bold;
+}
+
+.view-all {
+    margin-left: 120px;
+    margin-top: 25px;
+    font-family: 'Lato', italic;
+    font-weight: bold;
+}
+
+.card-container {
+    display: flex;
+    overflow-x: auto;
+    padding: 16px 0;
+}
+
+.small-card {
+    min-width: 300px;
+    margin-right: 16px;
+    max-height: 500px;
+}
+
+.nft-image {
+    height: 60%;
+    width: 100%;
+}
