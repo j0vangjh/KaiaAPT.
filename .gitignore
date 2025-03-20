@@ -31,6 +31,5 @@ yarn-error.log*
 .eslintcache
 
 # Sensitive Information
-src/firebaseConfig.ts
-index.js
+
 serviceAccount.json
